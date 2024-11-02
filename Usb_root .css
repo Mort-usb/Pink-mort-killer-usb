@@ -1,0 +1,8 @@
+USB_ROOT
+├── disk_cleanup.bat             (Main batch script for disk cleanup)
+├── show_image.ps1               (PowerShell script for fullscreen image display)
+├── hide_taskbar_desktop.ahk     (AutoHotkey script for hiding UI elements)
+├── autorun.inf                  (Optional, for adding an icon or label)
+└── assets/
+    ├── pink_skull.jpg           (Image to display in fullscreen)
+    └── IrfanView.exe            (Portable IrfanView, if used)
