@@ -1,0 +1,9 @@
+USB_ROOT
+├── disk_cleanup.bat            (Main batch script for disk cleanup and sequence start)
+├── show_image.ps1              (PowerShell script for displaying an image fullscreen)
+├── barbie_pink.ps1             (PowerShell script for pink screen and beep)
+├── hide_taskbar_desktop.ahk    (AutoHotkey script for hiding UI elements)
+├── assets/
+│   ├── pink_skull.jpg          (Image to display in fullscreen)
+│   ├── alert_sound.wav         (Optional: Custom sound file for beep)
+└── IrfanView.exe               (Portable IrfanView, optional if needed)
